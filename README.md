@@ -8,5 +8,8 @@
 
 🔹 In essence, the Senior Guard Alert System emerges as a pivotal asset, embodying a commitment to elevated standards of safety, convenience, and efficient community-wide communication.
 
+🔸You can find the clips of Prototype here
+https://drive.google.com/drive/folders/1tt0Z7eyBs6SZDJ4CtMWeH1-HZPrT8W5Q
+
 
 ![Brochure - senior guard alert  system](https://github.com/Sankaram02/SGAS/assets/119692486/b15872c1-e2fe-446e-a21f-eff06a71457c)
